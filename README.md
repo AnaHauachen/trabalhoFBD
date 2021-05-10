@@ -1,6 +1,5 @@
 # trabalhoFBD
 
-Name DB: TBD_TRAB1
 
 Tables:
 	- Factura
